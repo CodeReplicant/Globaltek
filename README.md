@@ -1,2 +1,5 @@
 # Globaltek
 Prueba de RPA development for globaltek 
+Escrito en Javascript en el entorno ViseualStudioCode, usando la extension Node.js para compilar y ejecutar el codigo. 
+Los 4 ejercicios se encuentran escritos en serie en el mismo programa: Program1.js
+
